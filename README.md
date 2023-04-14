@@ -1,1 +1,1 @@
-# sample-code
+# uncompleted tutorial app
